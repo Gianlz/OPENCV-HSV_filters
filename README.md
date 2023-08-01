@@ -32,3 +32,10 @@ url = ''`
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## TO DO
+
+1. Add a feature to save the filtered image to a file. On process
+2. Add a feature to adjust the brightness and contrast of the image.
+3. Add a feature to crop the image to a specific size or aspect ratio.
+4. Add a feature to rotate the image by a specific angle.
