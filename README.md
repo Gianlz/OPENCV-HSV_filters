@@ -17,6 +17,8 @@ This code is a PyQt5 application that allows you to apply filters to an image. T
 1. Clone the repository: `git clone https://github.com/gianlucazugno/opencv-filters.git](https://github.com/Gianlz/OPENCV-HSV_filters.git)`
 2. Install the required packages: `pip install -r requirements.txt` ## Soon
 3. Run the application: `python main.py`
+   OBS: change the path for your non-local image changing this line `#Read image from URL
+url = ''`
 
 ## Usage
 1. Adjust the HSV values using the sliders in the "HSV Lower" and "HSV Upper" groups.
